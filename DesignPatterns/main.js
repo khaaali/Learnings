@@ -1,4 +1,4 @@
-import Observable from "./Observable.js";
+import Observable from "../Observable.js";
 
 function oba() {
     console.log("oba")
